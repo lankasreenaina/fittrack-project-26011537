@@ -1,1 +1,2 @@
 "Project: FitTrack Mobile App\nTeam: Development Team Alpha\nStart Date: January 2026"
+"Features:\n- User authentication\n- Workout tracking" 
